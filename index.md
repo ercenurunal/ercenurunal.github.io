@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
- <img align="right" width="300" height="300" src="UnalPhoto.png"> 
+ <img align="right" width="300" height="300" src="UnalPhoto.png">
 
 I am an Assistant Professor in the [Department of Psychology](https://www.ozyegin.edu.tr/en/department-psychology) at Özyeğin University and the director of the [Language Cognition and Development Lab](http://www.labs.ozyegin.edu.tr/gelisim/).
 
