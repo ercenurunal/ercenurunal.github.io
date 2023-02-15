@@ -30,10 +30,7 @@ external:                  # shows a footer with social links - for available ic
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
-
-#plugins:
-# - jekyll-feed
-
+  
 remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
