@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-I am an Assistant Professor in the [Department of Psychology](https://www.ozyegin.edu.tr/en/department-psychology) at Özyeğin University and the director of the [Language, Cognition and Development Lab] (https://labs.ozyegin.edu.tr/gelisim/).
+I am an Assistant Professor in the [Department of Psychology](https://www.ozyegin.edu.tr/en/department-psychology) at Özyeğin University and the director of the [Language Cognition and Development Lab](http://www.labs.ozyegin.edu.tr/gelisim/).
 
 I obtained my Ph.D. in Cognitive Psychology at University of Delaware and completed my postdoctoral work at Radboud University and Max Planck Institute for Psycholinguistics. 
 
