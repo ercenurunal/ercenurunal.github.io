@@ -28,6 +28,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:ercenur.unal@ozyegin.edu.tr"}
  #- {title: Github, icon: github, url: "https://github.com/ercenurunal"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/ErcenurUnal"}
+  - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-6794-2129"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
