@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   #- {file: "index.html"}
   #- {url: "/unalcv.pdf", title: CV}
-  -{url: "unal-cv/unal-cv.pdf", title: CV}
+  -{url: "https://github.com/ercenurunal/unal-cv/blob/main/unal-cv.pdf", title: CV}
   - {url: "https://labs.ozyegin.edu.tr/gelisim/", title: Lab}
   #- {file: "README.md"}
 
