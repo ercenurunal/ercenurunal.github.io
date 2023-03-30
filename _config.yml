@@ -20,8 +20,7 @@ minimal: true              # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   #- {file: "index.html"}
-  #- {url: "/unal-cv.pdf", title: CV}
-  - {file: "unal-cv.pdf", title: CV}
+  - {url: "/unal-cv.pdf", title: CV}
   - {url: "https://labs.ozyegin.edu.tr/gelisim/", title: Lab}
   #- {file: "README.md"}
 
