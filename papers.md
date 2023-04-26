@@ -2,25 +2,25 @@
 
 * Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2022). Sign advantage: Both children and adults’ spatial expressions in sign are more informative than those in speech and gestures combined. *Journal of Child Language*, 1-27.
 
-* **Ünal.**, Manhardt, F., & Özyürek, A. (2022). Speaking and gesturing guide event perception during  message conceptualization: Evidence from eye movements. *Cognition*, *225*, Article 105127.
+* **Ünal.**, Manhardt, F., & Özyürek, A. (2022). [Speaking and gesturing guide event perception during  message conceptualization: Evidence from eye movements.](/papers/UMO_2022_COGN.pdf) *Cognition*, *225*, Article 105127.
 
-* ter Bekke, M., Özyürek, A., & **Ünal, E.** (2022). Speaking but not gesturing predicts event memory: A cross-linguistic comparison. *Language and Cognition*, *14*(3), 362-384.  
+* ter Bekke, M., Özyürek, A., & **Ünal, E.** (2022). [Speaking but not gesturing predicts event memory: A cross-linguistic comparison.](/papers/tBOU_2022_LC.pdf) *Language and Cognition*, *14*(3), 362-384.  
 
 * Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2022). Late sign language exposure does not modulate the relation between spatial language and spatial memory in deaf children and adults. *Memory & Cognition*.
 
-* **Ünal, E.**, Richards, C., Trueswell, J., & Papafragou, A. (2021). Representing Agents, Patients, Goals and Instruments in causative events: A cross-linguistic investigation of early language and cognition. *Developmental Science*, *24*(6), Article e13116.  
+* **Ünal, E.**, Richards, C., Trueswell, J., & Papafragou, A. (2021). [Representing Agents, Patients, Goals and Instruments in causative events: A cross-linguistic investigation of early language and cognition.](/papers/URTP_DevSci_2021.pdf) *Developmental Science*, *24*(6), Article e13116.  
 
-* **Ünal, E.**, Ji, Y. & Papafragou, A. (2021). From event representation to linguistic meaning. *Topics in Cognitive Science*, *13*, 224-242.  
+* **Ünal, E.**, Ji, Y. & Papafragou, A. (2021). [From event representation to linguistic meaning.](/papers/UJP-Topics-2021.pdf) *Topics in Cognitive Science*, *13*, 224-242.  
 
-* **Ünal, E.**, & Papafragou, A. (2020). Relations between language and cognition: Evidentiality and the sources of knowledge. *Topics in Cognitive Science*, *12*, 112-135.  
+* **Ünal, E.**, & Papafragou, A. (2020). [Relations between language and cognition: Evidentiality and the sources of knowledge.](/papers/UP-Topics-2020.pdf) *Topics in Cognitive Science*, *12*, 112-135.  
 
-* **Ünal, E.**, & Papafragou, A. (2019). How children identify events from visual experience. *Language, Learning and Development*, *15*, 138-156.  
+* **Ünal, E.**, & Papafragou, A. (2019). [How children identify events from visual experience.](/papers/UP_2019_LLD.pdf) *Language, Learning and Development*, *15*, 138-156.  
 
-* **Ünal, E.**, & Papafragou, A. (2016). Interactions between language and mental representations. *Language Learning*, *66*, 554-580.  
+* **Ünal, E.**, & Papafragou, A. (2016). [Interactions between language and mental representations.](/papers/UP-2016-LL.pdf) *Language Learning*, *66*, 554-580.  
 
-* **Ünal, E.**, & Papafragou, A. (2016). Production-comprehension asymmetries and the acquisition of evidential morphology. *Journal of Memory and Language*, *89*, 179-199.  
+* **Ünal, E.**, & Papafragou, A. (2016). [Production-comprehension asymmetries and the acquisition of evidential morphology.](/papers/UP_2016JML.pdf) *Journal of Memory and Language*, *89*, 179-199.  
 
-* **Ünal, E.**, Pinto, A., Bunger, A. & Papafragou, A. (2016). Monitoring sources of event memories: A cross-linguistic investigation. *Journal of Memory and Language*, *87*, 157-176. 
+* **Ünal, E.**, Pinto, A., Bunger, A. & Papafragou, A. (2016). [Monitoring sources of event memories: A cross-linguistic investigation.](/papers/UPBP2016JML.pdf) *Journal of Memory and Language*, *87*, 157-176. 
 
 ## Book Chapters
 
