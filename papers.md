@@ -18,7 +18,7 @@ title: ""
 
 * **Ünal, E.**, Ji, Y. & Papafragou, A. (2021). [From event representation to linguistic meaning.](/papers/UJP-Topics-2021.pdf) *Topics in Cognitive Science*, *13*, 224-242.  
 
-* **Ünal, E.**, & Papafragou, A. (2020). [Relations between language and cognition: Evidentiality and the sources of knowledge.](/papers/UP-Topics-2020.pdf) *Topics in Cognitive Science*, *12*, 112-135.  
+* **Ünal, E.**, & Papafragou, A. (2020). [Relations between language and cognition: Evidentiality and the sources of knowledge.](/papers/UP-2020-Topics.pdf) *Topics in Cognitive Science*, *12*, 112-135.  
 
 * **Ünal, E.**, & Papafragou, A. (2019). [How children identify events from visual experience.](/papers/UP_2019_LLD.pdf) *Language, Learning and Development*, *15*, 138-156.  
 
