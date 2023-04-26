@@ -30,9 +30,9 @@ title: ""
 
 ## Book Chapters
 
-* **Ünal, E.**, & Papafragou, A. (2018). [The relation between language and mental state reasoning.](/papers/UP_MetDiv_2018.pdf) In J. Proust & M. Frontier (Eds.), *Metacognitive diversity: An interdisciplinary approach*, (pp.153-169). Oxford University Press.  
+* **Ünal, E.**, & Papafragou, A. (2018). The relation between language and mental state reasoning. In J. Proust & M. Frontier (Eds.), *Metacognitive diversity: An interdisciplinary approach*, (pp.153-169). Oxford University Press.  
 
-* **Ünal, E.**, & Papafragou, A. (2018). [Evidentials, information sources and cognition.](/papers/UP_OHE_2018.pdf) In A. Aikhenvald (Ed.), *The Oxford handbook of evidentiality*, (pp.175-184). Oxford University Press.
+* **Ünal, E.**, & Papafragou, A. (2018). Evidentials, information sources and cognition. In A. Aikhenvald (Ed.), *The Oxford handbook of evidentiality*, (pp.175-184). Oxford University Press.
 
 ## Conference Proceedings
 * Avcılar, G., & **Ünal, E.** (2022). Linguistic encoding of inferential evidence for events. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society*, (pp.2825-2830). Cognitive Science Society.
