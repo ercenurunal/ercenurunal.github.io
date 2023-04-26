@@ -47,7 +47,7 @@ title: ""
 
 * Tarakçı, B., & **Ünal, E.** (2022). [Renk algısı alanında dil ve biliş etkileşimlerinin doğası.](/papers/TU_Nesne_2022.pdf) *Nesne*, *10*(23), 130-149.  
 
-* Avcılar, G., Bilir, B., Cihankaya, Ş., Coşkun, Z., Piri, İ., & **Ünal, E.**. (2021). [Jestlerin çocukların dil-iletişim ve bilişsel becerilerinin gelişimindeki destekleyici rolü.](/papers/ABCCPÜ_PÇ_2021.pdf) *Psikoloji Çalışmaları*, *41*, 789-812.  
+* Avcılar, G., Bilir, B., Cihankaya, Ş., Coşkun, Z., Piri, İ., & **Ünal, E.**. (2021). [Jestlerin çocukların dil-iletişim ve bilişsel becerilerinin gelişimindeki destekleyici rolü.](/papers/ABCCPU_PC_2021.pdf) *Psikoloji Çalışmaları*, *41*, 789-812.  
 
 * **Ünal, E.**, & Baturlar, Ö. (2020). [Zihinsel durumların dilde ve bilişte temsili.](/papers/UB-2020-DAD.pdf) *Dilbilim Araştırmaları Dergisi*, *31*, 123-140.  
 
