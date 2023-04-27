@@ -6,13 +6,13 @@ title: ""
 
 ## Journal Articles
 
-* Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2022). Sign advantage: Both children and adults’ spatial expressions in sign are more informative than those in speech and gestures combined. *Journal of Child Language*, 1-27.
+* Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2022). [Sign advantage: Both children and adults’ spatial expressions in sign are more informative than those in speech and gestures combined.](/papers/KSUO_JCL2022.pdf) *Journal of Child Language*, 1-27.
 
 * **Ünal.**, Manhardt, F., & Özyürek, A. (2022). [Speaking and gesturing guide event perception during  message conceptualization: Evidence from eye movements.](/papers/UMO_2022_COGN.pdf) *Cognition*, *225*, Article 105127.
 
 * ter Bekke, M., Özyürek, A., & **Ünal, E.** (2022). [Speaking but not gesturing predicts event memory: A cross-linguistic comparison.](/papers/tBOU_2022_LC.pdf) *Language and Cognition*, *14*(3), 362-384.  
 
-* Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2022). Late sign language exposure does not modulate the relation between spatial language and spatial memory in deaf children and adults. *Memory & Cognition*.
+* Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2022). [Late sign language exposure does not modulate the relation between spatial language and spatial memory in deaf children and adults.](/papers/KSUO_MC_2022.pdf) *Memory & Cognition*.
 
 * **Ünal, E.**, Richards, C., Trueswell, J., & Papafragou, A. (2021). [Representing Agents, Patients, Goals and Instruments in causative events: A cross-linguistic investigation of early language and cognition.](/papers/URTP_DevSci_2021.pdf) *Developmental Science*, *24*(6), Article e13116.  
 
@@ -30,18 +30,18 @@ title: ""
 
 ## Book Chapters
 
-* **Ünal, E.**, & Papafragou, A. (2018). The relation between language and mental state reasoning. In J. Proust & M. Frontier (Eds.), *Metacognitive diversity: An interdisciplinary approach*, (pp.153-169). Oxford University Press.  
+* **Ünal, E.**, & Papafragou, A. (2018). [The relation between language and mental state reasoning.](/papers/UP2018-metacogdiv.pdf) In J. Proust & M. Frontier (Eds.), *Metacognitive diversity: An interdisciplinary approach*, (pp.153-169). Oxford University Press.  
 
-* **Ünal, E.**, & Papafragou, A. (2018). Evidentials, information sources and cognition. In A. Aikhenvald (Ed.), *The Oxford handbook of evidentiality*, (pp.175-184). Oxford University Press.
+* **Ünal, E.**, & Papafragou, A. (2018). [Evidentials, information sources and cognition.](/papers/UP_OHE_2018.pdf) In A. Aikhenvald (Ed.), *The Oxford handbook of evidentiality*, (pp.175-184). Oxford University Press.
 
 ## Conference Proceedings
-* Avcılar, G., & **Ünal, E.** (2022). Linguistic encoding of inferential evidence for events. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society*, (pp.2825-2830). Cognitive Science Society.
+* Avcılar, G., & **Ünal, E.** (2022). [Linguistic encoding of inferential evidence for events.](/papers/AU_CogSci_2022.pdf) In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society*, (pp.2825-2830). Cognitive Science Society.
 
-* Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2021). Spatial language use predicts spatial memory of children: Evidence from sign, speech, and speech-plus-gesture. In T. Fitch, C. Lamm, H. Leder, & K. Tessmar (Eds.), *Proceedings of the 43rd Annual Conference of the Cognitive Science Society*, (pp.672-678). Cognitive Science Society.  
+* Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2021). [Spatial language use predicts spatial memory of children: Evidence from sign, speech, and speech-plus-gesture.](/papers/KSUO_CogSci2021.pdf) In T. Fitch, C. Lamm, H. Leder, & K. Tessmar (Eds.), *Proceedings of the 43rd Annual Conference of the Cognitive Science Society*, (pp.672-678). Cognitive Science Society.  
 
-* ter Bekke, M., Özyürek, A., & **Ünal, E.** (2019). Speaking but not gesturing predicts motion event memory within and across languages. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), *Proceedings of the 41st Annual Conference of the Cognitive Science Society*, (pp.2940-2946). Cognitive Science Society.  
+* ter Bekke, M., Özyürek, A., & **Ünal, E.** (2019). [Speaking but not gesturing predicts motion event memory within and across languages.](/papers/terbekkeCS2019.pdf) In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), *Proceedings of the 41st Annual Conference of the Cognitive Science Society*, (pp.2940-2946). Cognitive Science Society.  
 
-* **Ünal, E.**, & Papafragou, A. (2013). Linguistic and conceptual representations of inference as a knowledge source. In S. Baiz, N. Goldman, & R. Hawkes (Eds.), *Proceedings of the 37th Annual Boston University Conference on Language Development*, (pp.433-443). Cascadilla Press.  
+* **Ünal, E.**, & Papafragou, A. (2013). [Linguistic and conceptual representations of inference as a knowledge source.](/papers/UPBUCLD203.pdf) In S. Baiz, N. Goldman, & R. Hawkes (Eds.), *Proceedings of the 37th Annual Boston University Conference on Language Development*, (pp.433-443). Cascadilla Press.  
 
 ## Journal Articles in Turkish
 
