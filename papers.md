@@ -6,13 +6,13 @@ title: ""
 
 ## Journal Articles
 
+* Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2023). [Late sign language exposure does not modulate the relation between spatial language and spatial memory in deaf children and adults.](/papers/KSUO_MC_2022.pdf) *Memory & Cognition*, *51*, 582–600.
+
 * Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2022). [Sign advantage: Both children and adults’ spatial expressions in sign are more informative than those in speech and gestures combined.](/papers/KSUO_JCL2022.pdf) *Journal of Child Language*, 1-27.
 
 * **Ünal.**, Manhardt, F., & Özyürek, A. (2022). [Speaking and gesturing guide event perception during  message conceptualization: Evidence from eye movements.](/papers/UMO_2022_COGN.pdf) *Cognition*, *225*, Article 105127.
 
 * ter Bekke, M., Özyürek, A., & **Ünal, E.** (2022). [Speaking but not gesturing predicts event memory: A cross-linguistic comparison.](/papers/tBOU_2022_LC.pdf) *Language and Cognition*, *14*(3), 362-384.  
-
-* Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2022). [Late sign language exposure does not modulate the relation between spatial language and spatial memory in deaf children and adults.](/papers/KSUO_MC_2022.pdf) *Memory & Cognition*.
 
 * **Ünal, E.**, Richards, C., Trueswell, J., & Papafragou, A. (2021). [Representing Agents, Patients, Goals and Instruments in causative events: A cross-linguistic investigation of early language and cognition.](/papers/URTP_DevSci_2021.pdf) *Developmental Science*, *24*(6), Article e13116.  
 
