@@ -6,6 +6,8 @@ title: ""
 
 ## Journal Articles
 
+* **Ünal, E.**, Mamus, E., & Özyürek, A. (in press). Multimodal encoding of motion events in speech, gesture and cognition. *Language and Cognition*.
+  
 * Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2023). [Late sign language exposure does not modulate the relation between spatial language and spatial memory in deaf children and adults.](/papers/KSUO_2022_MC.pdf) *Memory & Cognition*, *51*, 582–600.
 
 * Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2022). [Sign advantage: Both children and adults’ spatial expressions in sign are more informative than those in speech and gestures combined.](/papers/KSUO_JCL2022.pdf) *Journal of Child Language*, 1-27.
