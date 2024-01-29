@@ -28,8 +28,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ercenur.unal@ozyegin.edu.tr"}
  #- {title: Github, icon: github, url: "https://github.com/ercenurunal"}
-  - {title: Twitter, url: "https://twitter.com/ErcenurUnal"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-6794-2129"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/ErcenurUnal"}
+  - {title: BlueSky, url: "https://bsky.app/profile/ercenurunal.bsky.social"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
