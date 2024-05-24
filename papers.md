@@ -37,6 +37,14 @@ title: ""
 * **Ünal, E.**, & Papafragou, A. (2018). [Evidentials, information sources and cognition.](/papers/UP_OHE_2018.pdf) In A. Aikhenvald (Ed.), *The Oxford handbook of evidentiality*, (pp.175-184). Oxford University Press.
 
 ## Conference Proceedings
+* Tınaz, B. & **Ünal, E.** (2024). Event segmentation in language and cognition. In L. K. Samuelson, Stefan Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.),  *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. Cognitive Science Society.
+
+* Tarakçı, B., Barış, C. & **Ünal, E.** (2024). Boundedness is represented in visual and auditory event cognition. In L. K. Samuelson, Stefan Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. Cognitive Science Society.
+
+* Moser, C., Tarakçı B., & **Ünal, E.**, & Grigoroglou, M. (2024). Multimodal description of Instrument events in Turkish and English.In L. K. Samuelson, Stefan Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. Cognitive Science Society.
+
+* Lee, S.H., **Ünal, E.**, & Papafragou, A. (2024). Forming event units in language and cognition: A cross-ingluistic investigation. In L. K. Samuelson, Stefan Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. Cognitive Science Society.
+
 * Avcılar, G., & **Ünal, E.** (2022). [Linguistic encoding of inferential evidence for events.](/papers/AU_CogSci_2022.pdf) In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society*, (pp.2825-2830). Cognitive Science Society.
 
 * Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2021). [Spatial language use predicts spatial memory of children: Evidence from sign, speech, and speech-plus-gesture.](/papers/KSUO_CogSci2021.pdf) In T. Fitch, C. Lamm, H. Leder, & K. Tessmar (Eds.), *Proceedings of the 43rd Annual Conference of the Cognitive Science Society*, (pp.672-678). Cognitive Science Society.  
