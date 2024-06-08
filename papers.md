@@ -43,7 +43,7 @@ title: ""
 
 * Moser, C., Tarakçı B., & **Ünal, E.**, & Grigoroglou, M. (2024). Multimodal description of Instrument events in Turkish and English.In L. K. Samuelson, Stefan Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. Cognitive Science Society.
 
-* Lee, S.H., **Ünal, E.**, & Papafragou, A. (2024). Forming event units in language and cognition: A cross-ingluistic investigation. In L. K. Samuelson, Stefan Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. Cognitive Science Society.
+* Lee, S.H., **Ünal, E.**, & Papafragou, A. (2024). Forming event units in language and cognition: A cross-linguistic investigation. In L. K. Samuelson, Stefan Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. Cognitive Science Society.
 
 * Avcılar, G., & **Ünal, E.** (2022). [Linguistic encoding of inferential evidence for events.](/papers/AU_CogSci_2022.pdf) In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society*, (pp.2825-2830). Cognitive Science Society.
 
