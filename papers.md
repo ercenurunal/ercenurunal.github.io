@@ -41,7 +41,7 @@ title: ""
 
 * Tarakçı, B., Barış, C. & **Ünal, E.** (2024). [Boundedness is represented in visual and auditory event cognition.](/papers/TBU_cogsci2024.pdf) In L. K. Samuelson, Stefan Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. (pp.2612-2618). Cognitive Science Society.
 
-* Moser, C., Tarakçı B., & **Ünal, E.**, & Grigoroglou, M. (2024). [Multimodal description of Instrument events in Turkish and English.](/papers/MTUG_cogsci.pdf) In L. K. Samuelson, Stefan Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. (pp.341-348). Cognitive Science Society.
+* Moser, C., Tarakçı B., & **Ünal, E.**, & Grigoroglou, M. (2024). [Multimodal description of Instrument events in Turkish and English.](/papers/MTUG_cogsci2024.pdf) In L. K. Samuelson, Stefan Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. (pp.341-348). Cognitive Science Society.
 
 * Lee, S.H., **Ünal, E.**, & Papafragou, A. (2024). [Forming event units in language and cognition: A cross-linguistic investigation.](/papers/LUP_cogsci2024.pdf) In L. K. Samuelson, Stefan Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. (pp.1885-1892). Cognitive Science Society.
 
