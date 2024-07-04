@@ -6,6 +6,8 @@ title: ""
 
 ## Journal Articles
 
+* **Ünal, E.**, Wilson, F., Trueswell, J., & Papafragou, A. (2024). Asymmetries in encoding event roles: Evidence from language and cognition. *Cognition*, *250*, Article 105868.
+  
 * **Ünal, E.**, Mamus, E., & Özyürek, A. (2023). [Multimodal encoding of motion events in speech, gesture and cognition.](/papers/UMO2023LC.pdf) *Language and Cognition*.
   
 * Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2023). [Late sign language exposure does not modulate the relation between spatial language and spatial memory in deaf children and adults.](/papers/KSUO_2022_MC.pdf) *Memory & Cognition*, *51*, 582–600.
