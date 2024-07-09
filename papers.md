@@ -6,7 +6,7 @@ title: ""
 
 ## Journal Articles
 
-* **Ünal, E.**, Wilson, F., Trueswell, J., & Papafragou, A. (2024). Asymmetries in encoding event roles: Evidence from language and cognition. *Cognition*, *250*, Article 105868.
+* **Ünal, E.**, Wilson, F., Trueswell, J., & Papafragou, A. (2024). [Asymmetries in encoding event roles: Evidence from language and cognition.](/papers/UWTP_COG2024.pdf) *Cognition*, *250*, Article 105868.
   
 * **Ünal, E.**, Mamus, E., & Özyürek, A. (2023). [Multimodal encoding of motion events in speech, gesture and cognition.](/papers/UMO2023LC.pdf) *Language and Cognition*.
   
