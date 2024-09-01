@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:ercenur.unal@ozyegin.edu.tr"}
+  - {title: Mail, icon: envelope, url: "mailto:ercenur.unal@mpi.nl"}
  #- {title: Github, icon: github, url: "https://github.com/ercenurunal"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-6794-2129"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/ErcenurUnal"}
