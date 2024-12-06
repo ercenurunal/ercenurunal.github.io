@@ -10,7 +10,7 @@ title: ""
   
 * Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2024). [Sign advantage: Both children and adults’ spatial expressions in sign are more informative than those in speech and gestures combined.](/papers/KSUO_JCL2024.pdf) *Journal of Child Language*, *51*(4) 876-902.
   
-* **Ünal, E.**, Mamus, E., & Özyürek, A. (2023). [Multimodal encoding of motion events in speech, gesture and cognition.](/papers/UMO2023LC.pdf) *Language and Cognition*.
+* **Ünal, E.**, Mamus, E., & Özyürek, A. (2024). [Multimodal encoding of motion events in speech, gesture and cognition.](/papers/UMO_2024LC.pdf) *Language and Cognition*, *16*(4),785-804.
   
 * Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2023). [Late sign language exposure does not modulate the relation between spatial language and spatial memory in deaf children and adults.](/papers/KSUO_2022_MC.pdf) *Memory & Cognition*, *51*, 582–600.
 
