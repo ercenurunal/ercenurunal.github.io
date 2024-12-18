@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img align="left" style="margin-right: 30px" src="UnalPhoto.png" width="320" height="320">
+<img align="left" style="margin-right: 30px" src="ErcenurUnal.jpg" width="320" height="320">
 
 I am a staff scientist in the [Multimodal Language Department](https://www.mpi.nl/department/multimodal-language-department/23) at Max Planck Institute for Psycholinguistics. I am also an affiliated Associate Professor in the [Department of Psychology](https://www.ozyegin.edu.tr/en/department-psychology) at Özyeğin University where I direct the [Language Cognition and Development Lab](http://www.labs.ozyegin.edu.tr/gelisim/).
 
