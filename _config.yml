@@ -1,7 +1,7 @@
 title: "Ercenur Ünal"
 author: "eü"
 #description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-description: "<b style=\"color: #f12;\"</b>"
+description: "<b style=\"color: #f45;\"</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
