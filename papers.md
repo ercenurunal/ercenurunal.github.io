@@ -6,7 +6,7 @@ title: ""
 
 ## Journal Articles
 
-* **Ünal, E.**, Kırbaşoğlu, K., Karadöller, D.Z., Sümer, B. Özyürek, A. (in press). Gesture reduces mapping difficulties in the development of spatial language depending on the complexity of spatial relations. *Cognitive Science*.  
+* **Ünal, E.**, Kırbaşoğlu, K., Karadöller, D.Z., Sümer, B. Özyürek, A. (2025). [Gesture reduces mapping difficulties in the development of spatial language depending on the complexity of spatial relations.](/papers/UKKSA_CS2025.pdf) *Cognitive Science*, *49*, Article e70046.  
 
 * **Ünal, E.**, Wilson, F., Trueswell, J., & Papafragou, A. (2024). [Asymmetries in encoding event roles: Evidence from language and cognition.](/papers/UWTP_COG2024.pdf) *Cognition*, *250*, Article 105868.
   
