@@ -10,7 +10,7 @@ title: ""
 
 * **Ünal, E.**, Wilson, F., Trueswell, J., & Papafragou, A. (2024). [Asymmetries in encoding event roles: Evidence from language and cognition.](/papers/UWTP_COG2024.pdf) *Cognition*, *250*, Article 105868.
   
-* Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2024). [Sign advantage: Both children and adults’ spatial expressions in sign are more informative than those in speech and gestures combined.](/papers/KSUO_JCL2024.pdf) *Journal of Child Language*, *51*(4) 876-902.
+* Karadöller, D.Z., Sümer, B., **Ünal, E.**, & Özyürek, A. (2024). [Sign advantage: Both children and adults’ spatial expressions in sign are more informative than those in speech and gestures combined.](/papers/KSUO_JCL2024.pdf) *Journal of Child Language*, *51*(4), 876-902.
   
 * **Ünal, E.**, Mamus, E., & Özyürek, A. (2024). [Multimodal encoding of motion events in speech, gesture and cognition.](/papers/UMO_2024LC.pdf) *Language and Cognition*, *16*(4),785-804.
   
