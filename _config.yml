@@ -30,7 +30,7 @@ external:                  # shows a footer with social links - for available ic
  #- {title: Github, icon: github, url: "https://github.com/ercenurunal"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-6794-2129"}
 #  - {title: Twitter, icon: twitter, url: "https://twitter.com/ErcenurUnal"}
-  - {title: BlueSky, url: "https://bsky.app/profile/ercenurunal.bsky.social"}
+  - {title: BlueSky, icon: blueksy, url: "https://bsky.app/profile/ercenurunal.bsky.social"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
