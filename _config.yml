@@ -46,6 +46,4 @@ plugins:
   - jekyll-feed
   - jemoji
 
-#link to the custom color set for links to override the theme
-styles:
-  - /assets/custom.css
+
