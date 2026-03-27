@@ -6,7 +6,7 @@ title: ""
 
 ## Journal Articles
 
-* Karadöller, D.Z., **Ünal, E.**, Sümer, B., Özer, D., Özyürek, A. (in press). Gesture as a mechanism of change in the interface between spatial language and cognitive development. *Cognitive Development*. 
+* Karadöller, D.Z., **Ünal, E.**, Sümer, B., Özer, D., Özyürek, A. (2026). [Gesture as a mechanism of change in the interface between spatial language and cognitive development.](/papers/KUSOO2026CD.pdf) *Cognitive Development*, *78*, Article 101694. 
 
 * **Ünal, E.**, Karadöller, D.Z., & Özyürek, A. (2026). [Children sustain their attention on spatial scenes when planning to describe spatial relations multimodally in speech and gesture.](/papers/UKO2026DevSci.pdf) *Developmental Science*, *29*(2), Article e70128.
    
