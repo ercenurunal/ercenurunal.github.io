@@ -30,8 +30,8 @@ external:                  # shows a footer with social links - for available ic
  #- {title: Github, icon: github, url: "https://github.com/ercenurunal"}
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-6794-2129"}
 #  - {title: Twitter, icon: twitter, url: "https://twitter.com/ErcenurUnal"}
+  - {title: "🎓 Google Scholar", url: "https://scholar.google.com/citations?user=R_H06RYAAAAJ&hl=en"}
   - {title: BlueSky, url: "https://bsky.app/profile/ercenurunal.bsky.social"}
-  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=R_H06RYAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
