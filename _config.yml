@@ -1,7 +1,7 @@
 title: "Ercenur Ünal"
 author: "eü"
 #description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-description: "<b style=\"color: #f45;\"</b>"
+description: "<b style=\"color: #f45;\"></b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -31,6 +31,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-6794-2129"}
 #  - {title: Twitter, icon: twitter, url: "https://twitter.com/ErcenurUnal"}
   - {title: BlueSky, url: "https://bsky.app/profile/ercenurunal.bsky.social"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=R_H06RYAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
