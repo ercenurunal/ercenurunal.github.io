@@ -45,7 +45,3 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jemoji
-
-#styles:
-#  - /assets/css/custom.css
-
