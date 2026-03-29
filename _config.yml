@@ -3,7 +3,7 @@ author: "eü"
 #description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 #description: "<b style=\"color: #f45;\"</b>"
 #description: "<b style=\"color: #264653;\"</b>"
-description: "b style=\"color: #0056B3;\"</b>"
+description: "<b style=\"color: #0056B3;\"</b>"
 
 permalink: /:title/
 lang: "en"
