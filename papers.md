@@ -6,6 +6,8 @@ title: ""
 
 ## Journal Articles
 
+* Tınaz, B. & **Ünal, E.** (in press). Development of event segmentation in language and cognition: Evidence from dwell times and eye movements. *Cognitive Science*.  
+
 * Karadöller, D.Z., **Ünal, E.**, Sümer, B., Özer, D., Özyürek, A. (2026). [Gesture as a mechanism of change in the interface between spatial language and cognitive development.](/papers/KUSOO2026CD.pdf) *Cognitive Development*, *78*, Article 101694. 
 
 * **Ünal, E.**, Karadöller, D.Z., & Özyürek, A. (2026). [Children sustain their attention on spatial scenes when planning to describe spatial relations multimodally in speech and gesture.](/papers/UKO2026DevSci.pdf) *Developmental Science*, *29*(2), Article e70128.
@@ -45,6 +47,8 @@ title: ""
 * **Ünal, E.**, & Papafragou, A. (2018). [Evidentials, information sources and cognition.](/papers/UP_OHE_2018.pdf) In A. Aikhenvald (Ed.), *The Oxford handbook of evidentiality*, (pp.175-184). Oxford University Press.
 
 ## Conference Proceedings
+* **Ünal, E.** & Flecken, M. (in press). Language-related top-down effects on event role identification. *Proceedings of the 48th Annual Conference of the Cognitive Science Society*.
+
 * Barış, C. & **Ünal, E.** (2025). [Agent preference in children: The role of animacy and event coherence.](/papers/BU_CogSci2025.pdf) In D. Barner, N.R. Bramley, A. Ruggeri and C.M. Walker (Eds.), Proceedings of the 47th Annual Conference of the Cognitive Science Society, (pp.409-415). Cognitive Science Society.
 
 * Tınaz, B. & **Ünal, E.** (2024). [Event segmentation in language and cognition.](/papers/TU_cogsci2024.pdf) In L.K. Samuelson, S.L. Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.),  *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. (pp.184-191). Cognitive Science Society.
