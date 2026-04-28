@@ -6,7 +6,7 @@ title: ""
 
 ## Journal Articles
 
-* Tınaz, B. & **Ünal, E.** (2026). [Development of event segmentation in language and cognition: Evidence from dwell times and eye movements.](/papers/TU2026CS) *Cognitive Science*,*50*(4), Article e70212.  
+* Tınaz, B. & **Ünal, E.** (2026). [Development of event segmentation in language and cognition: Evidence from dwell times and eye movements.](/papers/TU2026CS.pdf) *Cognitive Science*,*50*(4), Article e70212.  
 
 * Karadöller, D.Z., **Ünal, E.**, Sümer, B., Özer, D., Özyürek, A. (2026). [Gesture as a mechanism of change in the interface between spatial language and cognitive development.](/papers/KUSOO2026CD.pdf) *Cognitive Development*, *78*, Article 101694. 
 
