@@ -1,0 +1,422 @@
+---
+title: "CV"
+author: "Ercenur Ünal"
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: "svm-latex-cv.tex"
+  word_document: default
+  html_document:
+    df_print: paged
+
+geometry: margin=1in
+address: "Wundtlaan 1 6525XD Nijmegen, The Netherlands"
+fontawesome: true
+email: "Ercenur.Unal@mpi.nl"
+web: "ercenurunal.github.io"
+updated: true
+rdateformat: "%d %b %Y"
+keywords: "R Markdown, academic CV, template"
+fontfamily: mathpazo
+fontfamilyoptions: "sc, osf"
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Employment
+
+*Max Planck Institute for Psycholinguistics*  
+    Staff Scientist, Multimodal Language Department \hfill 2024--  
+
+*Özyeğin University*   
+    Associate Professor, Department of Psychology \hfill 2023--2024   
+    Assistant Professor, Department of Psychology \hfill 2018--2023   
+
+*Radboud University* & *Max Planck Institute for Psycholinguistics*  
+    Postdoctoral Researcher \hfill 2016--2018   
+    Supervisor: Aslı Özyürek  
+
+# Education
+
+Ph.D., Cognitive Psychology, *University of Delaware* \hfill 2016  
+Advisor: Anna Papafragou  
+
+M.A., Developmental Psychology, *Koç University*  \hfill 2011  
+Advisor: Aylin C. Küntay
+
+B.A., Psychology, *Koç University* \hfill 2009  
+
+# Research Interests 
+
+Language and cognition, Multimodal communication, Language acquisition, Event cognition, Spatial Language, Evidentiality
+
+# Grants
+
+The Scientific and Technological Research Council of Turkey (TUBITAK) 1001 Project, “Event Representation in Cognition, Language and Development”, Role: PI, 2021--2024 (1,214,885TL).
+
+Social Sciences and Humanities Research Council of Canada (SSHRC), Insight Development Grant, “Cross-linguistic investigation of events in speech and gesture”, Role: Co-applicant, PI: Myrto Grigologlou, 2021--2025 ($65,339). 
+
+# Honors and Awards
+
+Graduate Fellowship, University of Delaware Office of Graduate and Professional Education -- 2015--2016  
+
+Dissertation Award, University of Delaware Department of Psychological and Brain Sciences -- 2015  
+
+Professional Development Award, University of Delaware -- 2013, 2015  
+
+Paula Menyuk Travel Award, Boston University Conference on Language Development -- 2012  
+
+Excellence in Graduate Studies Award, Koç University Graduate School of Social Science and Humanities -- 2011  
+
+# Publications
+
+(Last position as senior author. ^ graduate and # undergraduate trainee at time of project.)
+
+## Journal Articles
+
+@. Tınaz, B.^ & **Ünal, E.** (2026). Development of event segmentation in language and cognition: Evidence from dwell times and eye movements. *Cognitive Science*,*50*(4), Article e70212.  
+
+@. Karadöller, D.Z., **Ünal, E.**, Sümer, B., Özer, D., Özyürek, A. (2026). Gesture as a mechanism of change in the interface between spatial language and cognitive development. *Cognitive Development*, *78*, Article 101694.  
+
+@. **Ünal, E.**, Karadöller, D.Z., & Özyürek, A. (2026). Children sustain their attention on spatial scenes when planning to describe spatial relations multimodally in speech and gesture. *Developmental Science*, *29*,(2), Article e70128.  
+
+@. **Ünal, E.**, Kırbaşoğlu, K.,^ Karadöller, D.Z.^, Sümer, B. Özyürek, A. (2025). Gesture reduces mapping difficulties in the development of spatial language depending on the complexity of spatial relations. *Cognitive Science*, *49*(2), Article e70046.  
+
+@. **Ünal, E.**, Wilson, F., Trueswell, J., & Papafragou, A. (2024). Asymmetries in encoding event roles: Evidence from language and cognition. *Cognition*, *250*, Article 105868.  
+
+@. Karadöller, D.Z.,^ Sümer, B., **Ünal, E.**, & Özyürek, A. (2024). Sign advantage: Both children and adults’ spatial expressions in sign are more informative than those in speech and gestures combined. *Journal of Child Language*, *51*(4) 876-902.  
+
+@. **Ünal, E.**, Mamus, E., & Özyürek, A. (2024). Multimodal encoding of motion events in speech, gesture and cognition. *Language and Cognition*, *16*(4), 785–804.  
+
+@. Karadöller, D.Z.,^ Sümer, B., **Ünal, E.**, & Özyürek, A. (2023). Late sign language exposure does not modulate the relation between spatial language and spatial memory in deaf children and adults. *Memory & Cognition*, *51*, 582–600.
+
+@. **Ünal.**, Manhardt, F., & Özyürek, A. (2022). Speaking and gesturing guide event perception during  message conceptualization: Evidence from eye movements. *Cognition*, *225*, Article 105127.
+
+@. ter Bekke, M.,^ Özyürek, A., & **Ünal, E.** (2022). Speaking but not gesturing predicts event memory: A cross-linguistic comparison. *Language and Cognition*, *14*(3), 362-384.  
+
+@. **Ünal, E.**, Richards, C., Trueswell, J., & Papafragou, A. (2021). Representing Agents, Patients, Goals and Instruments in causative events: A cross-linguistic investigation of early language and cognition. *Developmental Science*, *24*(6), Article e13116.  
+
+@. **Ünal, E.**, Ji, Y. & Papafragou, A. (2021). From event representation to linguistic meaning. *Topics in Cognitive Science*, *13*, 224-242.  
+
+@. **Ünal, E.**, & Papafragou, A. (2020). Relations between language and cognition: Evidentiality and the sources of knowledge. *Topics in Cognitive Science*, *12*, 112-135.  
+
+@. **Ünal, E.**, & Papafragou, A. (2019). How children identify events from visual experience. *Language, Learning and Development*, *15*, 138-156.  
+
+@. **Ünal, E.**, & Papafragou, A. (2016). Interactions between language and mental representations. *Language Learning*, *66*, 554-580.  
+
+@. **Ünal, E.**, & Papafragou, A. (2016). Production-comprehension asymmetries and the acquisition of evidential morphology. *Journal of Memory and Language*, *89*, 179-199.  
+
+@. **Ünal, E.**, Pinto, A., Bunger, A. & Papafragou, A. (2016). Monitoring sources of event memories: A cross-linguistic investigation. *Journal of Memory and Language*, *87*, 157-176. 
+
+## Book Chapters 
+
+@. **Ünal, E.**, & Papafragou, A. (2018). The relation between language and mental state reasoning. In J. Proust & M. Frontier (Eds.), *Metacognitive diversity: An interdisciplinary approach*, (pp.153-169). Oxford University Press.  
+
+@. **Ünal, E.**, & Papafragou, A. (2018). Evidentials, information sources and cognition. In A. Aikhenvald (Ed.), *The Oxford handbook of evidentiality*, (pp.175-184). Oxford University Press.
+
+## Conference Proceedings  
+
+@. **Ünal, E.** & Flecken, M. (in press). Language-related top-down effects on event role identification. *Proceedings of the 48th Annual Conference of the Cognitive Science Society*.
+
+@. Barış, C.^ & **Ünal, E.** (2025). Agent preference in children: The role of animacy and event coherence. In D. Barner, N.R. Bramley, A. Ruggeri and C.M. Walker (Eds.), *Proceedings of the 47th Annual Conference of the Cognitive Science Society*, (pp.409-415). Cognitive Science Society.
+
+@. Tınaz, B.^ & **Ünal, E.** (2024). Event segmentation in language and cognition. In L.K. Samuelson, S.L. Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.),  *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. (pp.184-191). Cognitive Science Society.
+
+@. Tarakçı, B.,^ Barış, C.^ & **Ünal, E.** (2024). Boundedness is represented in visual and auditory event cognition. In L.K. Samuelson, S.L. Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. (pp.2612-2618). Cognitive Science Society.
+
+@. Moser, C., Tarakçı B.,^ & **Ünal, E.**, & Grigoroglou, M. (2024). Multimodal description of Instrument events in Turkish and English.In L.K. Samuelson, S.L. Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. (pp.341-348). Cognitive Science Society.
+
+@. Lee, S.H., **Ünal, E.**, & Papafragou, A. (2024). Forming event units in language and cognition: A cross-linguistic investigation. In L.K. Samuelson, S.L. Frank, M. Toneva, A. Mackey, & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. (pp.1885-1892). Cognitive Science Society.
+
+@. Avcılar, G.,^ & **Ünal, E.** (2022). Linguistic encoding of inferential evidence for events. In J. Culbertson, A. Perfors, H. Rabagliati, & V. Ramenzoni (Eds.), *Proceedings of the 44th Annual Conference of the Cognitive Science Society*, (pp.2825-2830). Cognitive Science Society.
+
+@. Karadöller, D.Z.,^ Sümer, B., **Ünal, E.**, & Özyürek, A. (2021). Spatial language use predicts spatial memory of children: Evidence from sign, speech, and speech-plus-gesture. In T. Fitch, C. Lamm, H. Leder, & K. Tessmar (Eds.), *Proceedings of the 43rd Annual Conference of the Cognitive Science Society*, (pp.672-678). Cognitive Science Society.  
+
+@. ter Bekke, M.,^ Özyürek, A., & **Ünal, E.** (2019). Speaking but not gesturing predicts motion event memory within and across languages. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), *Proceedings of the 41st Annual Conference of the Cognitive Science Society*, (pp.2940-2946). Cognitive Science Society.  
+
+@. **Ünal, E.**, & Papafragou, A. (2013). Linguistic and conceptual representations of inference as a knowledge source. In S. Baiz, N. Goldman, & R. Hawkes (Eds.), *Proceedings of the 37th Annual Boston University Conference on Language Development*, (pp.433-443). Cascadilla Press.  
+
+## Journal Articles in Turkish
+
+@. Tarakçı, B.,^ & **Ünal, E.** (2022). Renk algısı alanında dil ve biliş etkileşimlerinin doğası. *Nesne*, *10*(23), 130-149.  
+
+@. Avcılar, G.,^ Bilir, B.,# Cihankaya, Ş.,# Coşkun, Z.,# Piri, İ.,# & **Ünal, E.**. (2021). Jestlerin çocukların dil-iletişim ve bilişsel becerilerinin gelişimindeki destekleyici rolü. *Psikoloji Çalışmaları*, *41*, 789-812.  
+
+@. **Ünal, E.**, & Baturlar, Ö.# (2020). Zihinsel durumların dilde ve bilişte temsili. *Dilbilim Araştırmaları Dergisi*, *31*, 123-140.  
+
+## Papers under review/in revision
+
+@. Lee, S.H., **Ünal, E.**, & Papafragou, A. Segmenting events in language and cognition.  
+
+@. **Ünal, E.**, Chen, X.J., Hu, J., Huettig, F. & Özyürek, A. Independent and joint contributions of gesture and speech to linguistic prediction.
+
+# Teaching  
+
+## Özyeğin University
+
+* Research Methods and Ethics -- graduate level
+* Cognitive Development -- graduate level
+* Introduction to Research Methods
+* Research Methods and Inferential Statistics 
+* Cognitive Development
+* Psychology of Language
+* Language and Thought 
+
+## University of Delaware  
+* Research Methods
+
+# Mentoring
+
+## Ph.D. Students
+*Max Planck Institute for Psycholinguistics*  
+
+* Bahar Tarakçı (2025--) -- Interactive and cross-linguistic dynamics of multimodal reference (co-supervised with Aslı Özyürek and Paula Rubio-Fernandez)
+
+* Dilay Z. Karadöller (2022) -- Development of spatial language and memory: Effects of language modality and late sign language exposure (co-supervised with Aslı Özyürek and Beyza Sümer)
+
+## Master's Students
+*Özyeğin University*  
+
+* Ceren Barış  (2024)  -- Agent preference in development: The role of animacy and event structure
+
+* Bilge Tınaz  (2024) -- Development of event segmentation in language and cognition: Evidence from Turkish speaking children  
+
+* Bahar Tarakçı (2023) -- The length of time and the duration of space: Word learning of spatial and temporal metaphors across auditory and visual modalities  
+
+* Kevser Kırbaşoğlu (2022) -- Development of multimodal expressions of space in speech and
+gesture: The case of sagittal and topological spatial relations  
+
+* Gökçen Avcılar (2022) -- Encoding inferential evidence for events in language: Evidence from Turkish speaking children and adults  
+
+* Cansu Gökbalkan (2019) -- The links between use of mental state terms, Theory of Mind and social skills in middle childhood 
+
+*Max Planck Institute for Psycholinguistics*  
+
+* Marlijn ter Bekke (2018) -- Speaking but not gesturing predicts motion event memory across and within languages  
+
+## Ph.D. Thesis Committees  
+* Elena Marx (2026, Central European University, Austria) 
+* Miguel Santin (2025, University of Groningen, The Netherlands) 
+* Irmak Hacımusaoğlu (2025, Tilburg University, The Netherlands) 
+* Jiashen Qu (2025, Nagoya University, Japan)
+
+## Ph.D. Qualifying Exam Committees  
+* Burcu Buğan (2020, Boğaziçi University, Turkey)  
+
+## Master's Thesis Committees  
+* Tutku Tunalı (2022, Sabancı University, Turkey)
+* Aslı Yurtsever (2021, Koç University, Turkey)
+* Zeynep Arslan (2019, Koç University, Turkey)  
+
+# Professional Service  
+## Professional societies
+
+* Cognitive Science Society Governing Board Member (2022--2028), elected position  
+    Chair, Fellows Committee (2024-- ; Member 2022--)  
+    Chair, Communications Committee (2023--; Member 2022--)  
+
+## Editorial boards and reviewing
+
+* *Editorial board:* First Language (2022-- )  
+
+* *Program committee:* Cognitive Science Society Meeting (annually since 2020)  
+
+* *Journal reviewing:* Applied Psycholinguistics, Bilingualism: Language and Cognition, Child Development, Cognition, Cognitive Development, Cognitive Linguistics, Cognitive Science, Developmental Psychology, Frontiers in Psychology, Glossa: a journal of general linguistics, International Journal of Bilingualism, Journal of Cultural Cognitive Science, Journal of Experimental Psychology: General, Journal of Experimental Child Psychology,  Journal of Memory and Language, Language, Language Acquisition, Language and Cognition, Language Cognition and Neuroscience, Language Learning and Development, Linguistics and Philosophy, Memory and Cognition, NeuroImage, Pragmatics & Cognition, Spatial Cognition and Computation, Topics in Cognitive Science  
+
+* *Book chapter reviewing:* John Benjamins, Koç University Press (in Turkish), Trends in Language Acquisition Research (TILAR) Series  
+
+* *Grant reviewing:* Scientific and Technological Research Council of Turkey, Royal Netherlands Academy of Arts and Sciences, Austrian Science Fund 
+
+* *Conference reviewing:* International Symposium on Brain and Cognitive Science (annually since 2023), Congress of the International Association for the Study of Child Language (2020, 2024), 3rd Developmental Psychology Symposium (2022), Cognitive Science Society Meeting (2014, 2019), Society for Research in Child Development (2017, 2019), Workshop on Events in Language and Cognition (2016), Workshop on Children's Acquisition and Processing of Head-Final Languages (2014, 2016)  
+
+## Memberships
+* Cognitive Science Society
+* International Association for the Study of Child Language
+
+# Institutional service
+*Max Planck Institute for Psycholinguistics*  
+
+* Colloquium committee (2025-- )
+* Library committee (2025)   
+
+*Özyeğin University*  
+
+* Department of Psychology curriculum coordinator (2023--2024)
+* Faculty search committee (2022--2024)
+* Undergraduate internship coordinator, Developmental area (2019--2024)
+* Organizer, departmental undergraduate research festival (2019)
+* Director, Graduate program in Developmental Psychology (2018--2021)
+
+
+# Meeting organization  
+
+(*as organizer or discussant*)
+
+10th Conference of the International Society for Gesture Studies (ISGS), Nijmegen, The Netherlands (Executive Committee)  -- 2025
+
+9th International Symposium on Brain and Cognitive Science, Özyeğin University, Istanbul, Turkey (Chair, Organizing Committee) -- 2023  
+
+Universality and diversity in event cognition and language, symposium at the 44th Annual Meeting of the Cognitive Science Society, Toronto, Canada (co-organized with Yue Ji and Anna Papafragou) -- 2022  
+
+Role of gestures in facilitating language acquisition and cognitive development, symposium at the 15th International Congress for the Study of Child Language, Philadelphia, PA (co-organized with Dilay Karadöller) -- 2021  
+
+Common ground is dead. Long live common ground!, 3rd Cycle Linguists Webcast. (Discussant) -- 2020  
+
+Universality and diversity in event cognition, symposium at the International Convention of Psychological Science, Paris, France (co-organized with Monique Flecken) -- 2019  
+
+Event Representations in Brain, Language, and Development (two-day workshop at the Max Planck Institute for Psycholinguistics, co-organized with Monique Flecken and Aslı Özyürek) -- 2017  
+
+Encoding Events in Language and Cognition, symposium at the 14th International Congress for the Study of Child Language, Lyon, France -- 2017  
+
+# Invited Talks 
+(*Selected*)
+
+Segmenting events in language and cognition. Workshop on Events in Language and Cognition and Beyond. University of Groningen, Groningen, The Netherlands, October 2025.  
+
+From event representation to linguistic meaning and back. University of Amsterdam, Amsterdam, The Netherlands, May 2025.
+
+Multimodal encoding of motion events in speech and gesture guides event apprehension. The Big Event, King’s College London, London, UK, April 2022  
+
+Events in multimodal language and cognition. Language Day, Koç University, Istanbul Turkey, July 2021  
+
+Evidentiality in language and cognition. Department of Linguistics, University of Toronto, Canada, February 2021  
+
+Studying language production from a multimodal perspective. Middle East Technical University, Ankara, Turkey, August 2020  
+
+Sources of knowledge in language and thought. Department of Psychology, Sabancı University, Istanbul, Turkey, November 2019  
+
+Acquisition of evidentiality. Joint conference of the sections Developmental and Educational Psychology (paEpsy), Leipzig, Germany, September 2019  
+
+Evidentiality in language and cognition. Department of Applied Psychology and Human Development, University of Toronto, Toronto, Canada, July 2019  
+
+Evidentiality in language and thought. Cognitive Neuroscience Day. Bahçeşehir University, Istanbul, Turkey, April 2019  
+
+Information sources in language and cognition, Department of Psychology, Özyeğin University, Istanbul, Turkey, June 2017  
+
+Thinking and talking about evidence: Developmental and cross-linguistic perspectives, Lunch Talk Series, Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands, January 2018  
+
+Representing evidence in language and cognition: Developmental and cross-linguistic perspectives, Department of Psychology, Boğaziçi University, Istanbul, Turkey, December 2015  
+
+Homologies between language and event cognition. Language and Communication Development Lab, Department of Psychology, Koç University, Istanbul, Turkey, December 2014  
+
+Perception and inference as knowledge sources: Developmental and cross-linguistic studies. Language and Cognition Seminar, Department of Psychology, Harvard University, Cambridge, MA, November 2013  
+
+Developmental and cross-linguistic approaches to the study of inference as a source of knowledge. Annual Food for Thought Event, Department of Psychology, Koç University, Istanbul, Turkey, December 2012  
+
+**Invited Teaching Talks**  
+(*Selected*)  
+
+Multimodal language production and cognition, Multimodal Language, (Neuro)Cognition & Computation graduate seminar, Radboud University, February 2026 
+
+The language in our hands: What does gesture and sign reveal about human cognition? Social Sciences Summer School, The Science Academy, June 2023  
+
+Evidentiality in language and cognition, Language and communication seminar, University of Toronto, February 2021  
+
+The role of nature vs. nurture in children’s language development, Social Sciences Summer School, The Science Academy, June 2020  
+
+Acquisition of evidentiality, Syntax-semantics interface graduate seminar, Radboud University, May 2017  
+
+Evidentiality in language and cognition, Language and thought graduate seminar, Radboud University, November 2016  
+
+Evidentiality in language and cognition, Psycholinguistics graduate seminar, University of Delaware, October 2014  
+
+# Conference Presentations  
+
+(*not listed in the proceedings*)  
+
+Clough, S., Kanakanti, M., Mamus, E., Slonimska, A., Akamine, S., Palmann, A., **Ünal, E.**, Özyürek, A. (2026). Quantifying gesture and sign space using video-based motion tracking: A case series tutorial. Poster presentation at Multimodal language 2026 workshop. Florence, Italy.  
+
+Flecken, M., & **Ünal, E.** (2026). Recent linguistic experience modulates abstraction of event roles. Poster presentation at the 39th Annual Conference on Human Sentence Processing, Cambridge, MA.  
+
+Tarakçı, B.,^ &  **Ünal, E.** (2025). Word learning of metaphors in space and time domains. Oral presentation at the MEDAL: Methodological Excellence in Data-Driven Approaches to Linguistics Conference. Tartu, Estonia.  
+
+Moser, C., Tarakçı B.,^ & **Ünal, E.**, & Grigoroglou, M. (2025). Language-specific event role mappings in multimodal possession-transfer event descriptions. Poster presentation at the 47th Annual Meeting of the Cognitive Science Society, San Francisco, CA.  
+
+Moser, C., Tarakçı B.,^ & **Ünal, E.**, & Grigoroglou, M. (2025). Encoding instruments in multimodal event descriptions: The roles of language specificity and conceptual prominence. Poster presentation at the 10th Conference of the International Society for Gesture Studies, Nijmegen, The Netherlands. 
+
+Moser, C., Tarakçı B.,^ & **Ünal, E.**, & Grigoroglou, M. (2025). How language specific encoding options and conceptual prominence shape instrument mentions in speech and gesture. Oral presentation at the Annual Conference of the Canadian Linguistic Association, Montreal, CA. 
+
+Karadöller, D.Z., Özyürek, A., &  **Ünal, E.** (2024).Children’s visual attention when planning informative multimodal descriptions of object locations. Poster presentation at the 46th Annual Meeting of the Cognitive Science Society, Rotterdam, The Netherlands.  
+
+Karadöller, D.Z., Özyürek, A., &  **Ünal, E.** (2024). Children's visual attention when planning informative multimodal descriptions of spatial relations. Oral presentation at the 15th International Congress for the Study of Child Language, Prague, Czech Republic. 
+
+Tarakçı, B.,^ &  **Ünal, E.** (2024). Word learning of spatial and temporal metaphors. Poster presentation at the The International Max Planck Research School for Language Sciences Conference, Nijmegen, The Netherlands.  
+
+Karadöller, D.Z., Özyürek, A., &  **Ünal, E.** (2024). Children's visual attention when planning informative multimodal descriptions of object locations. Oral presentation at the The International Max Planck Research School for Language Sciences Conference, Nijmegen, The Netherlands.
+
+Moser, C., Tarakçı B.,^ & **Ünal, E.**, & Grigoroglou, M. (2024). Conceptual and language-specific syntactic effects on multimodal recipient event descriptions. Poster presentation at the 3rd Experiments in Linguistic Meaning Conference, Philadelphia, PA.  
+
+Moser, C., Tarakçı B.,^ & **Ünal, E.**, & Grigoroglou, M. (2024). Conceptual and language-specific syntactic influences on the description of Instrument events in Turkish and English. Oral presentation at the 99th Annual Meeting of the Linguistic Society of America, New York, NY.  
+
+**Ünal, E.**, Kırbaşoğlu, K.,^ Karadöller, D.Z.,^  Sümer, B., & Özyürek, A. (2023). Development of informative spatial expressions in speech and gesture. Oral presentation at the 45th Annual Meeting of the Cognitive Science Society, Sydney, Australia. 
+
+Tarakçı B.,^ & **Ünal, E.** (2023). Is word learning of spatial metaphors grounded in perceptual modality? Poster presentation at the 45th Annual Meeting of the Cognitive Science Society, Sydney, Australia. 
+
+Moser, C., Tarakçı B.,^ & **Ünal, E.**, & Grigoroglou, M. (2023). A cross-linguistic investigation of possession-transfer and instrument events in language production. Poster presentation at the 45th Annual Meeting of the Cognitive Science Society, Sydney, Australia.  
+
+Lee, S.H., Papafragou, A., & **Ünal, E.** (2023). Event units in language and cognition. Poster presentation at the 45th Annual Meeting of the Cognitive Science Society, Sydney, Australia.  
+
+Karadöller, D. Z.,^ **Ünal, E.**, Sümer, B., Göksun, T., Özer, D., & Özyürek, A. (2023). Children express more information multimodally when describing Left-Right relations. Oral presentation at the 52nd Annual Meeting of the Jean Piaget Society, Madrid, Spain.  
+
+Karadöller, D.Z.,^ Kırbaşoğlu, K.,^ Sümer, B., Özyürek, A., & **Ünal, E.** (2023). Children use gestures to increase the informativeness of their spatial expressions depending on the complexity of spatial relations. Oral presentation at the 1st International Multimodal Communication Symposium, Barcelona, Spain.  
+
+Lee, S.H., Pintado-Urbanc, A., Papafragou, A., & **Ünal, E.** (2023).Linguistic and cognitive event units across languages. Oral presentation at the 36th Annual Conference on Human Sentence Processing, Pittsburg, PA.  
+
+Lee, S.H., Pintado-Urbanc, A., Papafragou, A., & **Ünal, E.** (2023). Cross-linguistic differences in linguistic and cognitive event unit formation. Oral presentation at the 98th Annual Meeting of the Linguistic Society of America, Denver, CO.  
+
+**Ünal, E.**, Manhardt, F., & Özyürek, A. (2022). Multimodal encoding of events in speech and gesture guides visual event apprehension. Oral presentation at the 44th Annual Meeting of the Cognitive Science Society, Toronto, Canada.  
+
+Özyürek, A., **Ünal, E.**, Manhardt, F., & Brouwer, S. (2022). Modality specific differences in speech, gesture and sign modulate visual attention differently during message preparation. Oral presentation at the 9th Conference of the International Society for Gesture Studies, Chicago, IL.  
+
+Karadöller, D.Z.,^ Sümer, B., **Ünal, E.**, & Özyürek, A. (2022). Relationship between spatial language experience and spatial memory: Evidence from deaf children with late sign language exposure. Oral presentation at the 4th International Conference on Sign Language Acquisition (Virtual).  
+
+Karadöller, D.Z.^, **Ünal, E.**, Sümer, B., & Özyürek, A. (2021). Producing informative descriptions of Left-Right relations: Differences between children and adults in using speech and gesture. Oral presentation at the 15th International Congress for the Study of Child Language, Philadelphia, PA.  
+
+Gökbalkan, C.,^ & **Ünal, E.** (2021). The links between mental state language and Theory of Mind in middle childhood. Oral presentation at the 15th International Congress for the Study of Child Language, Philadelphia, PA.  
+
+Karadöller, D.Z.,^ Sümer, B., **Ünal, E.**, & Özyürek, A. (2020). Sign advantage for children: Signing children’s spatial expressions are more informative than speaking children’s speech and gestures combined. Oral presentation at the 45th Annual Boston University Conference on Language Development, Boston, MA.  
+
+**Ünal, E.**, & Özyürek, A. (2019). Visual attention is guided by language-specific encoding of events not only in speech but also in gesture. Oral presentation at the Workshop on Crosslinguistic Perspectives on Processing and Learning, Zurich, Switzerland.
+
+Karadöller, D.Z.,^ **Ünal, E.**, Sümer, B., Özer, D., Göksun, T., & Özyürek, A. (2019). Children but not adults use both speech and gesture to produce informative expressions of Left-Right relations. Oral presentation at the 44th Annual Boston University Conference on Language Development, Boston, MA.   
+
+**Ünal, E.**, & Özyürek, A. (2019). The relation between visual event apprehension and multimodal event descriptions. Oral presentation at the International Convention of Psychological Science, Paris, France.  
+
+ter Bekke, M.,^ **Ünal, E.**, & Özyürek, A. (2019). Speaking but not gesturing predicts motion event memory within and across languages. Poster presentation at the International Convention of Psychological Science, Paris, France.  
+
+ter Bekke, M.,^ **Ünal, E.**, Karadöller, D.Z.,^ & Özyürek, A. (2017). Cross-linguistic effects of speech and gesture production on memory of motion events. Poster presentation at the Workshop on Event Representations in Brain, Language and Development, Nijmegen, The Netherlands.  
+
+**Ünal, E.**, Trueswell, J., & Papafragou, A. (2017). How children map event participants onto language. Oral presentation at the 14th International Congress for the Study of Child Language, Lyon, France.  
+
+**Ünal, E.**, Trueswell, J., & Papafragou, A. (2016). Event role identification in language and cognition. Poster presentation at the Workshop on Events in Language and Cognition, Gainesville, FL.  
+
+**Ünal, E.**, & Papafragou, A. (2015). The relation between evidentiality and source monitoring. Poster presentation at the 9th Biennial Meeting of Cognitive Development Society, Columbus, OH.  
+
+**Ünal, E.**, Wilson, F., Trueswell, J., & Papafragou, A. (2015). Relationship between linguistic and conceptual event roles: A cross-linguistic investigation. Poster presentation at the 9th Biennial Meeting of Cognitive Development Society, Columbus, OH.
+
+**Ünal, E.**, & Papafragou, A. (2015). Conceptual factors in the acquisition of evidentiality. Poster presentation at the Biennial Meeting of Society for Research on Child Development, Philadelphia, PA.  
+
+**Ünal, E.**, & Papafragou, A. (2014). Production-comprehension asymmetries in language acquisition: The case of evidential morphology. Oral presentation at the 39th Annual Boston University Conference on Language Development, Boston, MA.  
+
+Wilson, F., **Ünal, E.**, Trueswell, J., & Papafragou, A. (2014). Homologies between language and event cognition: Evidence from event role prominence. Oral presentation at the 39th Annual Boston University Conference on Language Development, Boston, MA.
+
+**Ünal, E.**, & Papafragou, A. (2014). Acquisition of evidential morphology in Turkish: A production-comprehension asymmetry. Oral presentation at the International Workshop on Children’s Acquisition and Processing of Head-final Languages, Cambridge, MA.  
+
+**Ünal, E.**, & Papafragou, A. (2014). Acquisition of evidentiality. Poster presentation at the 13th International Congress for the Study of Child Language, Amsterdam, The Netherlands.  
+
+**Ünal, E.**, & Papafragou, A. (2013). Perception and inference as sources of knowledge in oneself and others. Poster presentation at the 8th Biennial Meeting of Cognitive Development Society, Memphis, TN.  
+
+**Ünal, E.**, & Papafragou, A. (2013). Children’s evaluation of inference as a source of knowledge in themselves and others. Poster presentation at the 25th Annual Convention of Association for Psychological Science, Washington, D.C.  
+
+**Ünal, E.**, Pinto, A., Bunger, A., & Papafragou, A. (2013). Monitoring sources of event memories: Does native language play a role? Poster presentation at 25th Annual Convention of Association for Psychological Science, Washington, D.C.  
+
+**Ünal, E.**, & Küntay, A.C. (2011). The effect of ecological factors and linguistic skills on event memory. Poster presentation at the12th International Congress for the Study of Child Language, Montreal, Canada.  
+
+Semizer, Y., Candan, A., **Ünal, E.**, Naigles, L. R., & Küntay, A. C. (2011) Do Turkish learners employ the accusative case in finding the agent? Poster presentation at the 12th International Congress for the Study of Child Language, Montreal, Canada.  
+
+**Ünal, E.**, Küntay, A.C., & Sandıkçı, Y.# (2011). Effects of visual and verbal factors on memory binding. Poster presentation at the 12th European Congress of Psychology, Istanbul, Turkey.  
+
+**Ünal, E.**, & Küntay, A.C. (2011). Effects of linguistic cues on memory binding in preschool children. Poster presentation at the Biennial Meeting of Society for Research on Child Development, Montreal, Canada.
+
+
