@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img align="left" style="margin-right: 30px" src="ErcenurUnal.jpg" width="320" height="320">
+<img align="left" style="margin-right: 30px" src="ErcenurUnal.jpg" width="300" height="300">
 
 I am a Cognitive Scientist studying the human language system and its relation to other aspects of cognition. I particularly focus on relational concepts&mdash;where things are located in *space* or who is doing what to whom, when and where in *events*. I study how relational concepts are mapped onto the multimodal language system in different languages, how children acquire these mappings, how they are processed during real-time language production and comprehension, and whether acquiring them reshapes conceptual representations. To address these issues, I take an interdisciplinary and multimethod approach combining perspectives in psychology, linguistics, and cognitive science. My work leverages cross-linguistic and cross-modal variation to identify which aspects of cognition are universally shared, which are shaped by multimodal language use and learning, and how language and cognition interact across development.
 
