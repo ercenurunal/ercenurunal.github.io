@@ -5,6 +5,7 @@ title: ""
 ---
 
 ## Journal Articles
+* Lee, S.H., **Ünal, E.**, & Papafragou, A. (in press). Segmenting events in language and cognition. *Cognitive Science*.  
 
 * Tınaz, B. & **Ünal, E.** (2026). [Development of event segmentation in language and cognition: Evidence from dwell times and eye movements.](/papers/TU2026CS.pdf) *Cognitive Science*, *50*(4), Article e70212.  
 
