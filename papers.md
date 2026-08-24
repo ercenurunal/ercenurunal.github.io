@@ -48,7 +48,7 @@ title: ""
 * **Ünal, E.**, & Papafragou, A. (2018). [Evidentials, information sources and cognition.](/papers/UP_OHE_2018.pdf) In A. Aikhenvald (Ed.), *The Oxford handbook of evidentiality*, (pp.175-184). Oxford University Press.
 
 ## Conference Proceedings
-* **Ünal, E.** & Flecken, M. (in press). Recent linguistic experience influences event role identification. *Proceedings of the 48th Annual Conference of the Cognitive Science Society*.
+* **Ünal, E.** & Flecken, M. (2026). [Recent linguistic experience influences event role identification.](/papers/UF_CogSci_2026.pdf) In G. Boleda, I. Dautriche, M. Maldonado, C. Saldana, & T. Torrent (Eds.), *Proceedings of the 48th Annual Conference of the Cognitive Science Society*, (pp.2513-2517). Cognitive Science Society.
 
 * Barış, C. & **Ünal, E.** (2025). [Agent preference in children: The role of animacy and event coherence.](/papers/BU_CogSci2025.pdf) In D. Barner, N.R. Bramley, A. Ruggeri and C.M. Walker (Eds.), Proceedings of the 47th Annual Conference of the Cognitive Science Society, (pp.409-415). Cognitive Science Society.
 
